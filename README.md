@@ -27,6 +27,7 @@ This project enables **real-time dynamic searching** through a dataset (Sales da
 ![Screenshot 2025-05-25 143239](https://github.com/user-attachments/assets/70eea64d-d184-4ce6-b45a-96360d21aaca)
 
 ## 🎥 Demo Video
+https://github.com/user-attachments/assets/233c70cb-032d-472c-a368-5a10274b58ce
 
-https://github.com/user-attachments/assets/6e7beb68-548f-43f9-b7f4-c33c7c11d7c8
+
 

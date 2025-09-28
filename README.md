@@ -13,7 +13,7 @@ This project enables **real-time dynamic searching** through a dataset (Sales da
 - 💡 **User-Friendly Interface**: Clean design with shaped buttons and search area.
 
 ## 📁 File Structure
-  - `SearchBox.xlsm` – The main macro-enabled workbook containing:
+  - `SearchBox.xlsm` –The main macro-enabled workbook containing:
   - Sales data table (`Table Name: Data`)
   - ActiveX TextBox control for live search
   - Shape-based button labeled **"Clear Filter"**
